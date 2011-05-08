@@ -20,7 +20,7 @@
 /* server username 	*/
 	$dbuser = "root";							
 /* server password	*/
-	$dbpassword = "01478963";					
+	$dbpassword = "";					
 /* the database */
 	$dbname = "ratb";					  	
 
